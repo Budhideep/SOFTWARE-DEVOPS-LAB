@@ -1,1 +1,1 @@
-1ST experiment of SOFTWARE DEVOPS LAB
+GitHub Actions CI pipeline added for automated linting and testing.
